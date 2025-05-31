@@ -1,0 +1,229 @@
+#headerdata{
+    width: 100%;
+    height: 50px;
+    background-color:blue;
+    display: flex;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0%;
+    z-index: 3;
+
+}
+#head1{
+    padding-left: 60px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: #fff;
+    
+}
+#head2{
+    padding-top: 10px;
+    padding-left: 950px;
+    padding-right: 50px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    color: #fff;
+
+}
+#head2 span{
+    padding-left: 10px;
+}
+
+
+#footer{
+    display: flex;
+    flex-wrap:wrap ;
+    width: 100%;
+    height: 500px;
+    background-color:#fff;
+    margin-top: 70px;
+}
+
+#foot1{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+#foot1 h1{
+    font-size: 50px;
+    color: red;
+    font-weight: bolder;
+}
+#foot1 button{
+    color: #fff;
+    background-color: red;
+    border: none;
+    font-size: 20px;
+}
+
+#foot2{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+#foot3{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+#foot4{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+#foot5{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+/* -------------------------------------banner css--------------------------------- */
+
+#banner{
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap:wrap ;
+    margin-top: 10px;
+}
+#bann1{
+    width: 50%;
+    height: 100vh;
+    background-image: url(https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-Library/default/dwab52ab19/menu/desk_editorials_banner_1A_bata.jpg?sw=1920&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bann1 h6{
+   color: #fff;
+   background-color: red;
+    padding-left: 160px;
+}
+#bann1 h5{
+    margin-top: 50%;
+    padding-left: 270px;
+    color: #fff;
+    text-decoration: underline;
+    font-style: italic;
+
+}
+#bann2{
+    width: 50%;
+    height: 100vh;
+    background-image: url(https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-Library/default/dw970c0dd6/menu/banner2_desktop.jpg?sw=1920);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+#bann2 h6{
+    padding-left: 250px;
+    background-color: red;
+    color: #fff;
+
+}
+#bann2 h5{
+    margin-top: 50%;
+    padding-left: 250px;
+    color: #fff;
+    text-decoration:underline;
+    font-style: italic;
+}
+
+/* ----------------------------------------banner next page-------------------------- */
+#bannext{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100vh;
+
+}
+#next1{
+    width: 33%;
+    height: 100vh;
+    background-size: cover;
+    background-image: url(https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-Library/default/dw197bb3ae/menu/desk_editorials_banner_3_bata%20-%20men.jpg?sw=1280&q=80);
+}
+#next1 h3{
+    padding-left: 180px;
+    color: #fff;
+    font-style: italic;
+
+}
+#next1 h2{
+    margin-top: 50%;
+    padding-left: 70px;
+    color: #fff;
+}
+#next2{
+    width: 34%;
+    height: 100vh;
+    background-size: cover;
+    background-image: url(https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-Library/default/dw877355fa/menu/desk_editorials_banner_2_bata%20-%20women.jpg?sw=1280&q=80);
+}
+#next2 h3{
+    padding-left: 180px;
+    color: #fff;
+    font-style: italic;
+
+}
+#next2 h2{
+    margin-top: 50%;
+    padding-left: 70px;
+    color: #fff;
+}
+#next3{
+    width: 33%;
+    height: 100vh;
+    background-size: cover;
+    background-image: url(https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-Library/default/dw33473e75/menu/desk_editorials_banner_4_kids_bata-1.jpg?sw=1280&q=80);
+}
+#next3 h3{
+    padding-left: 180px;
+    color: #fff;
+    font-style: italic;
+}
+#next3 h2{
+    margin-top: 50%;
+    padding-left: 70px;
+    color: #fff;
+}
+
+
+
+
+
+/* ---------------------add to cart csss----------------------- */
+
+#prodata{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+    padding-left: 40px;
+    margin-top: 20px;
+}
+#bata{
+    padding-left: 45%;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+    color: red;
+    margin-top: 15px;
+}
+
+
+/* -------------------------------------Product data------------------------- */
+
+#product{
+display: flex;
+flex-wrap: wrap;
+width:100% ;
+height: 100vh;
+margin-top: 30px;
+}
+#proimg{
+    padding-left: 150px;
+}
+
+#proname{
+    padding-left: 30px;
+}
+#fix{
+    font-size: 21px;
+}

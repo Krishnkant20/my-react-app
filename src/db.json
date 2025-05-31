@@ -1,0 +1,244 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"Power black textile walking and sports shoes for men",
+            "category":"Men",
+            "brand":"Bata",
+            "price":1600,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw72527ea3/images/large/8396212_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":2,
+            "name":"RED LABEL BLACK FORMAL SHOES FOR MEN ...............",
+            "category":"Men",
+            "brand":"Bata",
+            "price":2000,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw36d8252f/images/large/8386174_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":3,
+            "name":"North star white casual sneaker shoes for men ........",
+            "category":"Men",
+            "brand":"Bata",
+            "price":1600,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwf66d6e14/images/large/8517095_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":4,
+            "name":"WEINBRENNER BLACK OUTDOORSHOES FOR MEN",
+            "category":"Men",
+            "brand":"Bata",
+            "price":2000,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw41b6f8f3/images/large/8016221_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":5,
+            "name":"Bata dark brown textured formal loafer shoes for men ................",
+            "category":"Men",
+            "brand":"Bata",
+            "price":2100,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw6020be0b/images/large/8514342_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":6,
+            "name":"Bata tan brown textured oxford style formal shoes for men",
+            "category":"Men",
+            "brand":"Bata",
+            "price":1999,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw781f0946/images/large/8313889_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":7,
+            "name":"Bata tan formal derby-style shoes with lace-up closure for men",
+            "category":"Men",
+            "brand":"Bata",
+            "price":1799,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwc207f288/images/large/8213431_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":8,
+            "name":"Bata tan brown textured oxford style formal shoes for men",
+            "category":"Men",
+            "brand":"Bata",
+            "price":1800,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw781f0946/images/large/8313889_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":9,
+            "name":"Nine west black embellished mid-heel mules for women ...........",
+            "category":"Women",
+            "brand":"Bata",
+            "price":1800,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw47edc9af/images/large/6716813_2.jpeg?sw=620"
+
+
+        },  
+        {
+            "id":10,
+            "name":"Nine west black embellished peep toe sandals for women...........",
+            "category":"Women",
+            "brand":"Bata",
+            "price":2000,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwac47053a/images/large/6616610_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":11,
+            "name":"North star beige casual sports shoes for women..................",
+            "category":"Women",
+            "brand":"Bata",
+            "price":1200,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwb4a36ee0/images/large/5518094_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":12,
+            "name":"NINE WEST NUDE BOOTS FOR WOMEN.............................",
+            "category":"Women",
+            "brand":"Bata",
+            "price":2500,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwd7403c56/images/large/7510412_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":13,
+            "name":"Marie claire brown wedge heel mules for women ................",
+            "category":"Women",
+            "brand":"Bata",
+            "price":900,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw053ff54c/images/large/7714203_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":14,
+            "name":"Bata black embellished open toe wedge heels for women ................",
+            "category":"Women",
+            "brand":"Bata",
+            "price":599,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwc2cc7ffc/images/large/5716133_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":15,
+            "name":"Marie claire gold embellished mid-heel mules for women ................... ",
+            "category":"Women",
+            "brand":"Bata",
+            "price":1200,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw08b3bbbc/images/large/6718048_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":16,
+            "name":"Nine west black embellished mid-heel mules for women   ......................",
+            "category":"Women",
+            "brand":"Bata",
+            "price":2999,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw47edc9af/images/large/6716813_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":17,
+            "name":"Disney Yellow Mule For Girl.........",
+            "category":"Kids",
+            "brand":"Bata",
+            "price":500,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw715a286b/images/large/3729922_2.jpeg?sw=620"
+
+
+        },  
+        {
+            "id":18,
+            "name":"Disney red casual slider mules for kids",
+            "category":"Kids",
+            "brand":"Bata",
+            "price":699,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwce7b202d/images/large/3715568_2.jpeg?sw=620"
+
+
+        }, 
+         {
+            "id":19,
+            "name":"Disney red sandals for children",
+            "category":"Kids",
+            "brand":"Bata",
+            "price":600,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwf2590af8/images/large/1615019_2.jpeg?sw=620"
+
+
+        }, 
+         {
+            "id":20,
+            "name":"Disney Blue Flip-Flops For Boyn",
+            "category":"Kids",
+            "brand":"Bata",
+            "price":499,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwca79fe14/images/large/3719191_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":21,
+            "name":"Bata black school shoes for kids",
+            "category":"Kids",
+            "brand":"Bata",
+            "price":799,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw2b99a287/images/large/4516008_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":22,
+            "name":"POWER PINK SPORTS SHOES FOR GIRLS",
+            "category":"Kids",
+            "brand":"Bata",
+            "price":599,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw8089d44b/images/large/5395067_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":23,
+            "name":"POWER WHITE SPORTS SHOES FOR BOYS",
+            "category":"Kids",
+            "brand":"Bata",
+            "price":799,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwe0fc0e3b/images/large/8391073_2.jpeg?sw=620"
+
+
+        },
+        {
+            "id":24,
+            "name":"North star tan casual shoes for boys",
+            "category":"Kids",
+            "brand":"Bata",
+            "price":1099,
+            "image":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwc0b4879b/images/large/8313077_2.jpeg?sw=620"
+
+
+        }
+    ]
+}
