@@ -227,3 +227,108 @@ margin-top: 30px;
 #fix{
     font-size: 21px;
 }
+
+
+
+
+
+
+/* ==================== RESPONSIVE FIX ==================== */
+
+/* General reset for images in background containers */
+#bann1, #bann2, #next1, #next2, #next3 {
+    background-size: cover;
+    background-position: center;
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+
+    /* Header */
+    #headerdata {
+        flex-direction: column;
+        height: auto;
+        padding: 10px 0;
+        align-items: center;
+        text-align: center;
+    }
+    #head1 {
+        padding-left: 0;
+        font-size: 28px;
+    }
+    #head2 {
+        padding: 5px 0;
+        margin: 0;
+        font-size: 18px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    /* Banner Section */
+    #banner {
+        flex-direction: column;
+        height: auto;
+    }
+    #bann1, #bann2 {
+        width: 100%;
+        height: 50vh;
+    }
+    #bann1 h5, #bann2 h5 {
+        margin-top: 30%;
+        padding-left: 20px;
+        font-size: 16px;
+    }
+
+    /* Banner Next */
+    #bannext {
+        flex-direction: column;
+        height: auto;
+    }
+    #next1, #next2, #next3 {
+        width: 100%;
+        height: 50vh;
+    }
+    #next1 h2, #next2 h2, #next3 h2 {
+        margin-top: 30%;
+        padding-left: 20px;
+        font-size: 18px;
+    }
+
+    /* Product Section */
+    #product {
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+    }
+    #proimg {
+        padding-left: 0;
+    }
+    #proname {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    /* Footer */
+    #footer {
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+    }
+    #foot1, #foot2, #foot3, #foot4, #foot5 {
+        padding-left: 0;
+        text-align: center;
+    }
+}
+
+/* Small mobile (extra adjustments for <480px) */
+@media (max-width: 480px) {
+    #head1 {
+        font-size: 22px;
+    }
+    #head2 {
+        font-size: 14px;
+    }
+    #bata {
+        font-size: 32px;
+    }
+}
