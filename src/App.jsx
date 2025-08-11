@@ -1,7 +1,7 @@
 import { BrowserRouter,Routes,Router, Route } from "react-router-dom";
 import Layout from "./Layout";
 import Home from "./pages/Home";
-import CartData from "./cartData";
+import CartData from "./CartData";
 import ProductDisplay from "./pages/ProductDisplay";
 import Mens from "./Mens";
 import Womens from "./Womens";
